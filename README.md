@@ -1,2 +1,2 @@
 # cursor-test
-testing cursor too
+testing cursor tool
